@@ -4,4 +4,3 @@
 
 resourse
 
-hakos estubo aqui
