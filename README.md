@@ -1,6 +1,10 @@
-# curso hennus Gochas
+# Curso de fivem en Hennus
 
-<b>santi estuvo aqui<b>
+- estudiantes
+    - gochas
+    - santi
 
-resourse
-
+- Profesores
+    - Kamerr Ezz
+    - Hakos
+    - Ramon
