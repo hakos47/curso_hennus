@@ -1,6 +1,18 @@
-# curso hennus Gochas
+# curso hennus
 
-<b>santi estuvo aqui<b>
+## Estudiantes
+- Gochas
+- canario
+- argento
+- alba
+- thunder
+- yerar
+- polaquito
+- ridu
+- samuu
 
-resourse
+## Profesores
+- KamerrEzz
+- Hakos
+- Ramon
 
